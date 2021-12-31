@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "211dfcd4-2160-432b-a953-e98b83719a35": {
+      "ProjectGuid": "211dfcd4-2160-432b-a953-e98b83719a35",
+      "DisplayName": "01_FileStorage",
+      "ColorIndex": 0
+    },
+    "a8d441e8-ca53-4413-b65f-edc80b748a48": {
+      "ProjectGuid": "a8d441e8-ca53-4413-b65f-edc80b748a48",
+      "DisplayName": "02_SqlStorage",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
