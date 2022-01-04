@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FileStorage", "01_FileStorage\01_FileStorage.csproj", "{CDCEE599-12A1-454A-97BE-8348BF8BBDF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SqlStorage_SqlClient", "02_SqlStorage_SqlClient\02_SqlStorage_SqlClient.csproj", "{1025D6EF-9DE7-4FC5-B8B4-EEBEBEA97F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SqlStorage_Dapper", "03_SqlStorage_Dapper\03_SqlStorage_Dapper.csproj", "{26D9AED4-92BD-4BE3-88CA-AFA3A50EE968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCEE599-12A1-454A-97BE-8348BF8BBDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCEE599-12A1-454A-97BE-8348BF8BBDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCEE599-12A1-454A-97BE-8348BF8BBDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCEE599-12A1-454A-97BE-8348BF8BBDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1025D6EF-9DE7-4FC5-B8B4-EEBEBEA97F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1025D6EF-9DE7-4FC5-B8B4-EEBEBEA97F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1025D6EF-9DE7-4FC5-B8B4-EEBEBEA97F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1025D6EF-9DE7-4FC5-B8B4-EEBEBEA97F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D9AED4-92BD-4BE3-88CA-AFA3A50EE968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9AED4-92BD-4BE3-88CA-AFA3A50EE968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9AED4-92BD-4BE3-88CA-AFA3A50EE968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9AED4-92BD-4BE3-88CA-AFA3A50EE968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA744A0B-0105-4D03-B8BE-FBFE41707FE6}
+	EndGlobalSection
+EndGlobal
