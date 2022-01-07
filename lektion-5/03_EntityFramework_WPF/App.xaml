@@ -1,0 +1,26 @@
+﻿<Application x:Class="_03_EntityFramework_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_03_EntityFramework_WPF"
+             xmlns:view="clr-namespace:_03_EntityFramework_WPF.Views"
+             xmlns:viewModel="clr-namespace:_03_EntityFramework_WPF.Models.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Templates/MenuItemTemplate.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <DataTemplate DataType="{x:Type viewModel:UserViewModel}">
+                <view:UserView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:NewUserViewModel}">
+                <view:NewUserView />
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

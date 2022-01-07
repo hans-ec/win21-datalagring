@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79da4b2a-9b25-40b5-a33b-ac9647a1f363": {
+      "ProjectGuid": "79da4b2a-9b25-40b5-a33b-ac9647a1f363",
+      "DisplayName": "00_Sql_Recap",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7679b1a0-b759-4e1a-9097-ed13d231bff1": {
+      "ProjectGuid": "7679b1a0-b759-4e1a-9097-ed13d231bff1",
+      "DisplayName": "00_Sql_Dapper_Recap",
+      "ColorIndex": 1
+    },
+    "ba336503-f05f-4310-a7ea-201ce0ceac4a": {
+      "ProjectGuid": "ba336503-f05f-4310-a7ea-201ce0ceac4a",
+      "DisplayName": "01_EntityFramework_DatabaseFirst",
+      "ColorIndex": 2
+    },
+    "020f8fb0-b026-4989-a459-3077359ff362": {
+      "ProjectGuid": "020f8fb0-b026-4989-a459-3077359ff362",
+      "DisplayName": "02_EntityFramework_CodeFirst",
+      "ColorIndex": 3
+    },
+    "da70e3d0-e2df-4fa7-b647-b0bc00fb6289": {
+      "ProjectGuid": "da70e3d0-e2df-4fa7-b647-b0bc00fb6289",
+      "DisplayName": "03_EntityFramework_WPF",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

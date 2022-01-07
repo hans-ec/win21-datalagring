@@ -1,0 +1,10 @@
+﻿Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-5\01_EntityFramework_DatabaseFirst\Data\sql_entityframework_databasefirst.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -OutputDir Models -Force
+
+""					Här skriver du din connectionstring till databasen
+-Context			talar om vad contextfilen ska heta ex. SqlContext							(-Context SqlContext)		
+-ContextDir			talar om vart contextfilen ska ligga ex. i katalogen Data					(-ContextDir Data)
+-OutputDir			talar om vart alla klasser/entiteter ska ligg ex. i katalogen Models		(OutputDir Models)
+-DataAnnotations	Specificerar upp alla attribut på properties för klasserna ex. [Key]
+-Force				Gör det möjligt att köra samma kommando igen om skriva över. Bra om man gjort ändringar i databasen
+
+Microsoft.EntityFrameworkCore.SqlServer		är vår provider dvs den typ av databas vi kör
