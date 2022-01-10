@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7a4b1ce-9cb6-4e80-b751-24ac987b6b5c": {
+      "ProjectGuid": "f7a4b1ce-9cb6-4e80-b751-24ac987b6b5c",
+      "DisplayName": "00_EntityFrameworkCore_DatabaseFirst_Recap",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "91d15494-095d-4b8d-8779-1c0358581c74": {
+      "ProjectGuid": "91d15494-095d-4b8d-8779-1c0358581c74",
+      "DisplayName": "00_EntityFrameworkCore_CodeFirst_Recap",
+      "ColorIndex": 1
+    },
+    "4143cfc1-c190-4416-9bbe-f3ff9d562dc2": {
+      "ProjectGuid": "4143cfc1-c190-4416-9bbe-f3ff9d562dc2",
+      "DisplayName": "00_EntityFramework_WPF",
+      "ColorIndex": 2
+    },
+    "4fe1bb11-6524-4cff-8a68-c2149417907e": {
+      "ProjectGuid": "4fe1bb11-6524-4cff-8a68-c2149417907e",
+      "DisplayName": "01_NoSql_MongoDB",
+      "ColorIndex": 3
+    },
+    "be7b888a-2ede-4cd8-8fe5-6c98d73311f4": {
+      "ProjectGuid": "be7b888a-2ede-4cd8-8fe5-6c98d73311f4",
+      "DisplayName": "02_NoSql_CosmosDB",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

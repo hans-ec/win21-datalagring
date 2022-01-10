@@ -61,7 +61,7 @@ namespace _03_EntityFramework_WPF.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/03_EntityFramework_WPF;component/views/userview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/03_EntityFramework_WPF;V1.0.0.0;component/views/userview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\UserView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

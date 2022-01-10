@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_EntityFrameworkCore_DatabaseFirst_Recap", "00_EntityFrameworkCore_DatabaseFirst_Recap\00_EntityFrameworkCore_DatabaseFirst_Recap.csproj", "{F7A4B1CE-9CB6-4E80-B751-24AC987B6B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_EntityFrameworkCore_CodeFirst_Recap", "00_EntityFrameworkCore_CodeFirst_Recap\00_EntityFrameworkCore_CodeFirst_Recap.csproj", "{91D15494-095D-4B8D-8779-1C0358581C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_EntityFramework_WPF", "00_EntityFramework_WPF\00_EntityFramework_WPF.csproj", "{4143CFC1-C190-4416-9BBE-F3FF9D562DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NoSql_MongoDB", "01_NoSql_MongoDB\01_NoSql_MongoDB.csproj", "{4FE1BB11-6524-4CFF-8A68-C2149417907E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_NoSql_CosmosDB", "02_NoSql_CosmosDB\02_NoSql_CosmosDB.csproj", "{BE7B888A-2EDE-4CD8-8FE5-6C98D73311F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A4B1CE-9CB6-4E80-B751-24AC987B6B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A4B1CE-9CB6-4E80-B751-24AC987B6B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A4B1CE-9CB6-4E80-B751-24AC987B6B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A4B1CE-9CB6-4E80-B751-24AC987B6B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D15494-095D-4B8D-8779-1C0358581C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D15494-095D-4B8D-8779-1C0358581C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D15494-095D-4B8D-8779-1C0358581C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D15494-095D-4B8D-8779-1C0358581C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4143CFC1-C190-4416-9BBE-F3FF9D562DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4143CFC1-C190-4416-9BBE-F3FF9D562DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4143CFC1-C190-4416-9BBE-F3FF9D562DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4143CFC1-C190-4416-9BBE-F3FF9D562DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE1BB11-6524-4CFF-8A68-C2149417907E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE1BB11-6524-4CFF-8A68-C2149417907E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE1BB11-6524-4CFF-8A68-C2149417907E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE1BB11-6524-4CFF-8A68-C2149417907E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7B888A-2EDE-4CD8-8FE5-6C98D73311F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7B888A-2EDE-4CD8-8FE5-6C98D73311F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7B888A-2EDE-4CD8-8FE5-6C98D73311F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7B888A-2EDE-4CD8-8FE5-6C98D73311F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812E0026-86FD-499B-A984-DFB71E6CDBCD}
+	EndGlobalSection
+EndGlobal
