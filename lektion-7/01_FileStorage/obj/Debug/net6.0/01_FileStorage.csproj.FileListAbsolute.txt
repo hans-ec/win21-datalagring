@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\01_FileStorage.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\01_FileStorage.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\01_FileStorage.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\01_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\ref\01_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\01_FileStorage.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\ref\01_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-datalagring\lektion-7\01_FileStorage\obj\Debug\net6.0\01_FileStorage.genruntimeconfig.cache

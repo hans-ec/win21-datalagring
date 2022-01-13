@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d42da43f-1c91-44f7-998d-f8adb4cd34db": {
+      "ProjectGuid": "d42da43f-1c91-44f7-998d-f8adb4cd34db",
+      "DisplayName": "01_FileStorage",
+      "ColorIndex": 0
+    },
+    "8f8154c0-508c-454f-a148-e755776fb19c": {
+      "ProjectGuid": "8f8154c0-508c-454f-a148-e755776fb19c",
+      "DisplayName": "02_SqlStorage",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0cc9add6-0842-41fc-a15b-e00a933a7cc1": {
+      "ProjectGuid": "0cc9add6-0842-41fc-a15b-e00a933a7cc1",
+      "DisplayName": "03_EntityFrameworkCore",
+      "ColorIndex": 2
+    },
+    "c3e61559-e04a-4778-89c7-829467665e49": {
+      "ProjectGuid": "c3e61559-e04a-4778-89c7-829467665e49",
+      "DisplayName": "04_NoSql",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

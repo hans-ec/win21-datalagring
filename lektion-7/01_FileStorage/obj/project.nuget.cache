@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbQG/rciZ26+fMTYJqINzAzNNUwDUWqjfb377yNKkPQ3I333YqIxccn3MGgdLKpwe54oLL3LRU8/y38CEgrtsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN21\\win21-datalagring\\lektion-7\\01_FileStorage\\01_FileStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
