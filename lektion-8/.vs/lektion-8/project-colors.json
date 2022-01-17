@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23dadda8-5001-47a9-8ef1-b9b5e36bae4f": {
+      "ProjectGuid": "23dadda8-5001-47a9-8ef1-b9b5e36bae4f",
+      "DisplayName": "01_FileStorage",
+      "ColorIndex": 0
+    },
+    "60aeda54-4116-4260-8118-de03084c493b": {
+      "ProjectGuid": "60aeda54-4116-4260-8118-de03084c493b",
+      "DisplayName": "02_AsyncAwaitExample",
+      "ColorIndex": 1
+    },
+    "20408f58-2140-4ccd-baf3-1e461b3a2637": {
+      "ProjectGuid": "20408f58-2140-4ccd-baf3-1e461b3a2637",
+      "DisplayName": "00_AsyncAwait_WPF",
+      "ColorIndex": 2
+    },
+    "acdd0f44-2a11-46de-bf6a-34e827cf0bc6": {
+      "ProjectGuid": "acdd0f44-2a11-46de-bf6a-34e827cf0bc6",
+      "DisplayName": "02_AzureStorageBlob",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "43b836fb-68bb-41db-975a-fd3b331ced09": {
+      "ProjectGuid": "43b836fb-68bb-41db-975a-fd3b331ced09",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
